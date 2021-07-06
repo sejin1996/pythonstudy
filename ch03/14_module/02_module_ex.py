@@ -1,3 +1,3 @@
-from show_info import *
-show_name()
-show_phone()
+# from show_info import *
+# show_name()
+# show_phone()
